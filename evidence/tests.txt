@@ -1,0 +1,19 @@
+$ python3 -m unittest discover -s tests -v
+
+test_all_schedulers_obey_policy (test_project.SchedulerTests.test_all_schedulers_obey_policy) ... ok
+test_end_to_end_exports (test_project.SchedulerTests.test_end_to_end_exports) ... Finished n=5, sensitive=40%
+ok
+test_exact_lower_bound_and_pso_monotonicity (test_project.SchedulerTests.test_exact_lower_bound_and_pso_monotonicity) ... ok
+test_hand_calculated_network_and_queue (test_project.SchedulerTests.test_hand_calculated_network_and_queue) ... ok
+test_invalid_inputs (test_project.SchedulerTests.test_invalid_inputs) ... ok
+test_known_optimum (test_project.SchedulerTests.test_known_optimum) ... ok
+test_policy_detects_and_rejects_violation (test_project.SchedulerTests.test_policy_detects_and_rejects_violation) ... ok
+test_reproducibility (test_project.SchedulerTests.test_reproducibility) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.075s
+
+OK
+Completed 3 runs. Report: /var/folders/6_/h6rg7xws4w79gg7xr31lqv480000gn/T/tmplgfq4t6j/REPORT.md
+
+Exit code: 0

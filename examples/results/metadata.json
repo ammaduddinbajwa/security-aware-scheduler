@@ -1,0 +1,17 @@
+{
+  "python": "3.12.4 (main, Jun  7 2024, 04:28:19) [Clang 14.0.0 (clang-1400.0.29.202)]",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "argv": [
+    "main.py",
+    "--output",
+    "examples/results"
+  ],
+  "source_sha256": {
+    "main.py": "1ea4332829b87d508eabbd647849345a2335cbafa35ecbef3fae9b59abb6ce22",
+    "reporting.py": "d940169b4e865f9ebf1f94de4920669ea2fc7de190f6fb5a0ad242ade9d2f615",
+    "schedulers.py": "4a8beb7c10a919daf3b6dfe88981c0c6ec0f0c69c22e0d1a358194fb6276c43f",
+    "simulation.py": "a71a86b06a04fcd1e41bce29c2b2ec90490f1e15eb9c282b4cd5769d43eb3daa"
+  },
+  "note": "Simulated metrics are deterministic; measured runtimes vary.",
+  "source_note": "Source hashes reflect the version packaged after removal of date output; scheduler and simulation logic are unchanged."
+}

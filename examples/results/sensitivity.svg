@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img">
+<title>Effect of the placement policy</title>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" fill="#0f172a">
+<text x="30" y="35" font-size="23" font-weight="bold">Effect of the placement policy</text>
+<text x="30" y="62" font-size="14">20 tasks · simulated mean completion ± sample SD · lower is better</text>
+<line x1="300" y1="88" x2="300" y2="475" stroke="#e2e8f0"/>
+<text x="300" y="498" text-anchor="middle" font-size="12">0.0s</text>
+<line x1="400" y1="88" x2="400" y2="475" stroke="#e2e8f0"/>
+<text x="400" y="498" text-anchor="middle" font-size="12">4.2s</text>
+<line x1="500" y1="88" x2="500" y2="475" stroke="#e2e8f0"/>
+<text x="500" y="498" text-anchor="middle" font-size="12">8.4s</text>
+<line x1="600" y1="88" x2="600" y2="475" stroke="#e2e8f0"/>
+<text x="600" y="498" text-anchor="middle" font-size="12">12.5s</text>
+<line x1="700" y1="88" x2="700" y2="475" stroke="#e2e8f0"/>
+<text x="700" y="498" text-anchor="middle" font-size="12">16.7s</text>
+<line x1="800" y1="88" x2="800" y2="475" stroke="#e2e8f0"/>
+<text x="800" y="498" text-anchor="middle" font-size="12">20.9s</text>
+<text x="28" y="114" font-size="13">n=20 | 0% sensitive | greedy</text>
+<rect x="300" y="98" width="162.62" height="23" rx="3" fill="#0891b2"/>
+<path d="M 444.098661038985 104 v 12 M 444.098661038985 110 H 481.1377479823633 M 481.1377479823633 104 v 12" stroke="#0f172a" fill="none"/>
+<text x="490.1377479823633" y="115" font-size="12">6.798 ± 0.774</text>
+<text x="28" y="154" font-size="13">n=20 | 0% sensitive | pso</text>
+<rect x="300" y="138" width="156.53" height="23" rx="3" fill="#7c3aed"/>
+<path d="M 438.4682155965306 144 v 12 M 438.4682155965306 150 H 474.5868394761533 M 474.5868394761533 144 v 12" stroke="#0f172a" fill="none"/>
+<text x="483.5868394761533" y="155" font-size="12">6.543 ± 0.755</text>
+<text x="28" y="194" font-size="13">n=20 | 0% sensitive | round_robin</text>
+<rect x="300" y="178" width="273.72" height="23" rx="3" fill="#64748b"/>
+<path d="M 540.9596241216377 184 v 12 M 540.9596241216377 190 H 606.474058556395 M 606.474058556395 184 v 12" stroke="#0f172a" fill="none"/>
+<text x="615.474058556395" y="195" font-size="12">11.442 ± 1.369</text>
+<text x="28" y="234" font-size="13">n=20 | 30% sensitive | greedy</text>
+<rect x="300" y="218" width="165.15" height="23" rx="3" fill="#0891b2"/>
+<path d="M 445.14986975346216 224 v 12 M 445.14986975346216 230 H 485.15333181762514 M 485.15333181762514 224 v 12" stroke="#0f172a" fill="none"/>
+<text x="494.15333181762514" y="235" font-size="12">6.904 ± 0.836</text>
+<text x="28" y="274" font-size="13">n=20 | 30% sensitive | pso</text>
+<rect x="300" y="258" width="163.12" height="23" rx="3" fill="#7c3aed"/>
+<path d="M 443.7656061483705 264 v 12 M 443.7656061483705 270 H 482.470764764286 M 482.470764764286 264 v 12" stroke="#0f172a" fill="none"/>
+<text x="491.470764764286" y="275" font-size="12">6.819 ± 0.809</text>
+<text x="28" y="314" font-size="13">n=20 | 30% sensitive | round_robin</text>
+<rect x="300" y="298" width="309.66" height="23" rx="3" fill="#64748b"/>
+<path d="M 553.6387125491667 304 v 12 M 553.6387125491667 310 H 665.6869671566074 M 665.6869671566074 304 v 12" stroke="#0f172a" fill="none"/>
+<text x="674.6869671566074" y="315" font-size="12">12.944 ± 2.342</text>
+<text x="28" y="354" font-size="13">n=20 | 60% sensitive | greedy</text>
+<rect x="300" y="338" width="194.96" height="23" rx="3" fill="#0891b2"/>
+<path d="M 466.06664006334415 344 v 12 M 466.06664006334415 350 H 523.8515144536807 M 523.8515144536807 344 v 12" stroke="#0f172a" fill="none"/>
+<text x="532.8515144536807" y="355" font-size="12">8.150 ± 1.208</text>
+<text x="28" y="394" font-size="13">n=20 | 60% sensitive | pso</text>
+<rect x="300" y="378" width="193.04" height="23" rx="3" fill="#7c3aed"/>
+<path d="M 466.3708782461579 384 v 12 M 466.3708782461579 390 H 519.7053174253142 M 519.7053174253142 384 v 12" stroke="#0f172a" fill="none"/>
+<text x="528.7053174253142" y="395" font-size="12">8.069 ± 1.115</text>
+<text x="28" y="434" font-size="13">n=20 | 60% sensitive | round_robin</text>
+<rect x="300" y="418" width="369.78" height="23" rx="3" fill="#64748b"/>
+<path d="M 593.1365450737001 424 v 12 M 593.1365450737001 430 H 746.4285714285713 M 746.4285714285713 424 v 12" stroke="#0f172a" fill="none"/>
+<text x="755.4285714285713" y="435" font-size="12">15.457 ± 3.204</text>
+</g></svg>

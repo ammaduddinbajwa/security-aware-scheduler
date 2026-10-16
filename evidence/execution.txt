@@ -1,0 +1,14 @@
+$ python3 main.py --output evidence/results
+
+Finished n=10, sensitive=0%
+Finished n=10, sensitive=30%
+Finished n=10, sensitive=60%
+Finished n=20, sensitive=0%
+Finished n=20, sensitive=30%
+Finished n=20, sensitive=60%
+Finished n=50, sensitive=0%
+Finished n=50, sensitive=30%
+Finished n=50, sensitive=60%
+Completed 270 runs. Report: evidence/results/REPORT.md
+
+Exit code: 0
